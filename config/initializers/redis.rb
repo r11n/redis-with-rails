@@ -1,0 +1,1 @@
+REDIS = Redis::Namespace.new("redis-test-app", redis: Redis.new)
